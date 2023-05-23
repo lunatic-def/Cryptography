@@ -1,0 +1,11 @@
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\obj\Debug\Curve25519.Tests.csproj.CoreCompileInputs.cache
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\bin\Debug\Curve25519.Tests.pdb
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\bin\Debug\Curve25519.dll
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\bin\Debug\nunit.framework.dll
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\bin\Debug\Curve25519.pdb
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\bin\Debug\nunit.framework.xml
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\obj\Debug\Curve25519.Tests.csproj.AssemblyReference.cache
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\obj\Debug\Curve25519.Tests.csproj.CopyComplete
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\obj\Debug\Curve25519.Tests.pdb
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\bin\Debug\Curve25519.Tests.exe
+D:\Mat_ma_hoc\curve25519-master\Curve25519.Tests\obj\Debug\Curve25519.Tests.exe
